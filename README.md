@@ -1,7 +1,6 @@
 ### Hi there my name is Gabriel Camargo
 
-- 🌱 I’m currently learning ...
-
+<br>
 <h2>🛠 Skills</h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
