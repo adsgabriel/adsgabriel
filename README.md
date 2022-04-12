@@ -25,8 +25,8 @@
   <br>
 <h2>🚀Last Repositories</h2>
 <div align="center">
-  <a href="https://github.com/adsgabriel/Projeto-PetShop-Angular-balta.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adsgabriel&repo=Projeto-PetShop-Angular-balta.io&theme=apprentice" />
+  <a href="https://github.com/adsgabriel/frontexpert">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adsgabriel&repo=frontexpert&theme=apprentice" />
 </a>
   
    <a href="https://github.com/adsgabriel/TypeScipt-Curso-Cod3r">
