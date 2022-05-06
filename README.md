@@ -23,7 +23,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adsgabriel&layout=compact&langs_count=7&theme=apprentice&bg_color=2a2a72&hide_border=true"/>
 </div>
   <br>
-<h2>🚀Last Repositories</h2>
+<h2>🚀Last Repositories</h2> 
 <div align="center">
   <a href="https://github.com/adsgabriel/frontexpert">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adsgabriel&repo=frontexpert&theme=apprentice" />
