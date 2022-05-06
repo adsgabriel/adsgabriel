@@ -29,7 +29,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adsgabriel&repo=frontexpert&theme=apprentice" />
 </a>
   
-   <a href="https://github.com/adsgabriel/TypeScipt-Curso-Cod3r">
+   <a href="https://github.com/adsgabriel/angular-avancado-desenvolvedor-io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adsgabriel&repo=TypeScipt-Curso-Cod3r&theme=apprentice" />
 </a>
 <div>
