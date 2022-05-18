@@ -31,7 +31,7 @@
   
    <a href="https://github.com/adsgabriel/angular-avancado-desenvolvedor-io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adsgabriel&repo=angular-avancado-desenvolvedor-io&theme=apprentice" />
-</a>
+  </a>
 <div>
 
 
