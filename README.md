@@ -26,7 +26,7 @@
 <h2>🚀Last Repositories</h2> 
 <div align="center">
   <a href="https://github.com/adsgabriel/Decoding">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adsgabriel&repo=Decoding.io&theme=apprentice" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adsgabriel&repo=Decoding&theme=apprentice" />
 </a>
   
    <a href="https://github.com/adsgabriel/Projeto-Final-desenvolvedor.io">
