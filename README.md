@@ -25,12 +25,12 @@
   <br>
 <h2>🚀Last Repositories</h2> 
 <div align="center">
-  <a href="https://github.com/adsgabriel/Projeto-Final-desenvolvedor.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adsgabriel&repo=Projeto-Final-desenvolvedor.io&theme=apprentice" />
+  <a href="https://github.com/adsgabriel/Decoding">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adsgabriel&repo=Decoding.io&theme=apprentice" />
 </a>
   
-   <a href="https://github.com/adsgabriel/angular-avancado-desenvolvedor-io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adsgabriel&repo=angular-avancado-desenvolvedor-io&theme=apprentice" />
+   <a href="https://github.com/adsgabriel/Projeto-Final-desenvolvedor.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adsgabriel&repo=Projeto-Final-desenvolvedor.io&theme=apprentice" />
   </a>
 <div>
 
